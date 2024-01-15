@@ -1,0 +1,12 @@
+#container {
+    display: inline-block;
+    width: 100%;
+}
+
+#name {
+    display: block;
+}
+
+#delay {
+    display: block;
+}
