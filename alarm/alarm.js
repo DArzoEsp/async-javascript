@@ -22,3 +22,4 @@ button.addEventListener("click", async () => {
       output.textContent = `Couldn't set alarm: ${error}`;
     }
   });
+  
